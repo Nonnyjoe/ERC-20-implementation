@@ -2455,7 +2455,7 @@
       ],
       [
         29,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::mintSucessful>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::mintSucessful>"
       ],
       [
         30,
@@ -2535,7 +2535,7 @@
       ],
       [
         49,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::name::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::name::read>"
       ],
       [
         50,
@@ -2563,11 +2563,11 @@
       ],
       [
         56,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::symbol::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::symbol::read>"
       ],
       [
         57,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::decimal::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::decimal::read>"
       ],
       [
         58,
@@ -2591,7 +2591,7 @@
       ],
       [
         63,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::totalSupply::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::totalSupply::read>"
       ],
       [
         64,
@@ -2615,15 +2615,15 @@
       ],
       [
         69,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::user_balance::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::user_balance::read>"
       ],
       [
         70,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::check_user_allowance>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::check_user_allowance>"
       ],
       [
         71,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::grant_allowance>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::grant_allowance>"
       ],
       [
         72,
@@ -2635,15 +2635,15 @@
       ],
       [
         74,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::revoke_allowance>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::revoke_allowance>"
       ],
       [
         75,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::transfer_from>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::transfer_from>"
       ],
       [
         76,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::transfer>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::transfer>"
       ],
       [
         77,
@@ -2663,7 +2663,7 @@
       ],
       [
         81,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::constructor>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::constructor>"
       ],
       [
         82,
@@ -2887,7 +2887,7 @@
       ],
       [
         137,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::user_balance::address>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::user_balance::address>"
       ],
       [
         138,
@@ -2899,7 +2899,7 @@
       ],
       [
         140,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::allowance::read>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::allowance::read>"
       ],
       [
         141,
@@ -2923,11 +2923,11 @@
       ],
       [
         146,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::allowance::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::allowance::write>"
       ],
       [
         147,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::allowance_granted>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::allowance_granted>"
       ],
       [
         148,
@@ -2959,7 +2959,7 @@
       ],
       [
         155,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::allowance_revoked>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::allowance_revoked>"
       ],
       [
         156,
@@ -2975,7 +2975,7 @@
       ],
       [
         159,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::_transfer>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::_transfer>"
       ],
       [
         160,
@@ -2991,7 +2991,7 @@
       ],
       [
         163,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::transferSuccesful>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::transferSuccesful>"
       ],
       [
         164,
@@ -3063,23 +3063,23 @@
       ],
       [
         181,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::name::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::name::write>"
       ],
       [
         182,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::symbol::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::symbol::write>"
       ],
       [
         183,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::decimal::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::decimal::write>"
       ],
       [
         184,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::totalSupply::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::totalSupply::write>"
       ],
       [
         185,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::_mint>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::_mint>"
       ],
       [
         186,
@@ -3223,7 +3223,7 @@
       ],
       [
         221,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::allowance::address>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::allowance::address>"
       ],
       [
         222,
@@ -3319,7 +3319,7 @@
       ],
       [
         245,
-        "function_call<user@ERC20::contract::erc_20::ERC_20::user_balance::write>"
+        "function_call<user@ERC20::contract::ERC_20::ERC_20::user_balance::write>"
       ],
       [
         246,
@@ -3537,51 +3537,51 @@
     "user_func_names": [
       [
         0,
-        "ERC20::contract::erc_20::ERC_20::__external::mintSucessful"
+        "ERC20::contract::ERC_20::ERC_20::__external::mintSucessful"
       ],
       [
         1,
-        "ERC20::contract::erc_20::ERC_20::__external::name_"
+        "ERC20::contract::ERC_20::ERC_20::__external::name_"
       ],
       [
         2,
-        "ERC20::contract::erc_20::ERC_20::__external::symbol_"
+        "ERC20::contract::ERC_20::ERC_20::__external::symbol_"
       ],
       [
         3,
-        "ERC20::contract::erc_20::ERC_20::__external::decimal_"
+        "ERC20::contract::ERC_20::ERC_20::__external::decimal_"
       ],
       [
         4,
-        "ERC20::contract::erc_20::ERC_20::__external::totalSupply_"
+        "ERC20::contract::ERC_20::ERC_20::__external::totalSupply_"
       ],
       [
         5,
-        "ERC20::contract::erc_20::ERC_20::__external::balance"
+        "ERC20::contract::ERC_20::ERC_20::__external::balance_of"
       ],
       [
         6,
-        "ERC20::contract::erc_20::ERC_20::__external::check_user_allowance"
+        "ERC20::contract::ERC_20::ERC_20::__external::check_user_allowance"
       ],
       [
         7,
-        "ERC20::contract::erc_20::ERC_20::__external::grant_allowance"
+        "ERC20::contract::ERC_20::ERC_20::__external::grant_allowance"
       ],
       [
         8,
-        "ERC20::contract::erc_20::ERC_20::__external::revoke_allowance"
+        "ERC20::contract::ERC_20::ERC_20::__external::revoke_allowance"
       ],
       [
         9,
-        "ERC20::contract::erc_20::ERC_20::__external::transfer_from"
+        "ERC20::contract::ERC_20::ERC_20::__external::transfer_from"
       ],
       [
         10,
-        "ERC20::contract::erc_20::ERC_20::__external::transfer"
+        "ERC20::contract::ERC_20::ERC_20::__external::transfer"
       ],
       [
         11,
-        "ERC20::contract::erc_20::ERC_20::__constructor::constructor"
+        "ERC20::contract::ERC_20::ERC_20::__constructor::constructor"
       ],
       [
         12,
@@ -3593,7 +3593,7 @@
       ],
       [
         14,
-        "ERC20::contract::erc_20::ERC_20::mintSucessful"
+        "ERC20::contract::ERC_20::ERC_20::mintSucessful"
       ],
       [
         15,
@@ -3601,7 +3601,7 @@
       ],
       [
         16,
-        "ERC20::contract::erc_20::ERC_20::name::read"
+        "ERC20::contract::ERC_20::ERC_20::name::read"
       ],
       [
         17,
@@ -3609,11 +3609,11 @@
       ],
       [
         18,
-        "ERC20::contract::erc_20::ERC_20::symbol::read"
+        "ERC20::contract::ERC_20::ERC_20::symbol::read"
       ],
       [
         19,
-        "ERC20::contract::erc_20::ERC_20::decimal::read"
+        "ERC20::contract::ERC_20::ERC_20::decimal::read"
       ],
       [
         20,
@@ -3621,7 +3621,7 @@
       ],
       [
         21,
-        "ERC20::contract::erc_20::ERC_20::totalSupply::read"
+        "ERC20::contract::ERC_20::ERC_20::totalSupply::read"
       ],
       [
         22,
@@ -3629,27 +3629,27 @@
       ],
       [
         23,
-        "ERC20::contract::erc_20::ERC_20::user_balance::read"
+        "ERC20::contract::ERC_20::ERC_20::user_balance::read"
       ],
       [
         24,
-        "ERC20::contract::erc_20::ERC_20::check_user_allowance"
+        "ERC20::contract::ERC_20::ERC_20::check_user_allowance"
       ],
       [
         25,
-        "ERC20::contract::erc_20::ERC_20::grant_allowance"
+        "ERC20::contract::ERC_20::ERC_20::grant_allowance"
       ],
       [
         26,
-        "ERC20::contract::erc_20::ERC_20::revoke_allowance"
+        "ERC20::contract::ERC_20::ERC_20::revoke_allowance"
       ],
       [
         27,
-        "ERC20::contract::erc_20::ERC_20::transfer_from"
+        "ERC20::contract::ERC_20::ERC_20::transfer_from"
       ],
       [
         28,
-        "ERC20::contract::erc_20::ERC_20::transfer"
+        "ERC20::contract::ERC_20::ERC_20::transfer"
       ],
       [
         29,
@@ -3661,7 +3661,7 @@
       ],
       [
         31,
-        "ERC20::contract::erc_20::ERC_20::constructor"
+        "ERC20::contract::ERC_20::ERC_20::constructor"
       ],
       [
         32,
@@ -3693,11 +3693,11 @@
       ],
       [
         39,
-        "ERC20::contract::erc_20::ERC_20::user_balance::address"
+        "ERC20::contract::ERC_20::ERC_20::user_balance::address"
       ],
       [
         40,
-        "ERC20::contract::erc_20::ERC_20::allowance::read"
+        "ERC20::contract::ERC_20::ERC_20::allowance::read"
       ],
       [
         41,
@@ -3709,11 +3709,11 @@
       ],
       [
         43,
-        "ERC20::contract::erc_20::ERC_20::allowance::write"
+        "ERC20::contract::ERC_20::ERC_20::allowance::write"
       ],
       [
         44,
-        "ERC20::contract::erc_20::ERC_20::allowance_granted"
+        "ERC20::contract::ERC_20::ERC_20::allowance_granted"
       ],
       [
         45,
@@ -3725,15 +3725,15 @@
       ],
       [
         47,
-        "ERC20::contract::erc_20::ERC_20::allowance_revoked"
+        "ERC20::contract::ERC_20::ERC_20::allowance_revoked"
       ],
       [
         48,
-        "ERC20::contract::erc_20::ERC_20::_transfer"
+        "ERC20::contract::ERC_20::ERC_20::_transfer"
       ],
       [
         49,
-        "ERC20::contract::erc_20::ERC_20::transferSuccesful"
+        "ERC20::contract::ERC_20::ERC_20::transferSuccesful"
       ],
       [
         50,
@@ -3741,23 +3741,23 @@
       ],
       [
         51,
-        "ERC20::contract::erc_20::ERC_20::name::write"
+        "ERC20::contract::ERC_20::ERC_20::name::write"
       ],
       [
         52,
-        "ERC20::contract::erc_20::ERC_20::symbol::write"
+        "ERC20::contract::ERC_20::ERC_20::symbol::write"
       ],
       [
         53,
-        "ERC20::contract::erc_20::ERC_20::decimal::write"
+        "ERC20::contract::ERC_20::ERC_20::decimal::write"
       ],
       [
         54,
-        "ERC20::contract::erc_20::ERC_20::totalSupply::write"
+        "ERC20::contract::ERC_20::ERC_20::totalSupply::write"
       ],
       [
         55,
-        "ERC20::contract::erc_20::ERC_20::_mint"
+        "ERC20::contract::ERC_20::ERC_20::_mint"
       ],
       [
         56,
@@ -3773,7 +3773,7 @@
       ],
       [
         59,
-        "ERC20::contract::erc_20::ERC_20::allowance::address"
+        "ERC20::contract::ERC_20::ERC_20::allowance::address"
       ],
       [
         60,
@@ -3797,7 +3797,7 @@
       ],
       [
         65,
-        "ERC20::contract::erc_20::ERC_20::user_balance::write"
+        "ERC20::contract::ERC_20::ERC_20::user_balance::write"
       ],
       [
         66,
@@ -3837,12 +3837,12 @@
         "function_idx": 8
       },
       {
-        "selector": "0x206f38f7e4f15e87567361213c28f235cccdaa1d7fd34c9db1dfe9489c6a091",
-        "function_idx": 5
-      },
-      {
         "selector": "0x30249e3e87fa5557cef32472d27d47ca290f0dbc6ba3ea2e867a5fdc6342a87",
         "function_idx": 4
+      },
+      {
+        "selector": "0x35a73cd311a05d46deda634c5ee045db92f811b4e74bca4437fcb5302b7af33",
+        "function_idx": 5
       },
       {
         "selector": "0x363c9782116f2241fba861fab15418222bc7c8269887498d0f1545097c3d1f0",
@@ -3960,7 +3960,7 @@
     },
     {
       "type": "function",
-      "name": "balance",
+      "name": "balance_of",
       "inputs": [
         {
           "name": "user",

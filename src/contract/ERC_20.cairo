@@ -61,7 +61,7 @@ mod ERC_20 {
     }
 
     #[view]
-    fn balance(user: ContractAddress) -> u256 {
+    fn balance_of(user: ContractAddress) -> u256 {
         user_balance::read(user)
     }
 
@@ -111,6 +111,10 @@ mod ERC_20 {
         transferSuccesful(msg_sender, to, amount);
     }
 
+    #[external]
+    fn add(a: u256, b: u256) -> u256 {
+        a + b
+    }
     // internal functions
     fn _transfer(ref from: ContractAddress, ref to: ContractAddress, ref amount: u256) -> bool {
         user_balance::write(from, user_balance::read(from) - amount);

@@ -7980,17 +7980,17 @@
         ]
       },
       {
-        "selector": "0x206f38f7e4f15e87567361213c28f235cccdaa1d7fd34c9db1dfe9489c6a091",
-        "offset": 652,
+        "selector": "0x30249e3e87fa5557cef32472d27d47ca290f0dbc6ba3ea2e867a5fdc6342a87",
+        "offset": 526,
         "builtins": [
-          "pedersen",
           "range_check"
         ]
       },
       {
-        "selector": "0x30249e3e87fa5557cef32472d27d47ca290f0dbc6ba3ea2e867a5fdc6342a87",
-        "offset": 526,
+        "selector": "0x35a73cd311a05d46deda634c5ee045db92f811b4e74bca4437fcb5302b7af33",
+        "offset": 652,
         "builtins": [
+          "pedersen",
           "range_check"
         ]
       },
