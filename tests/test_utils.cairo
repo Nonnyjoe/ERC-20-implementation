@@ -1,4 +1,4 @@
-use ERC20::contract::ERC_20;
+// use ERC20::contract::ERC_20;
 use starknet::contract_address_const;
 use starknet::ContractAddress;
 use starknet::testing::set_caller_address;
@@ -41,13 +41,13 @@ fn test_Constructor_initialization() {
 #[available_gas(200000)]
 fn test_transfer() {
     let contract: felt252 = setup();
-    let recipient: felt252 = contract_address_const::<1>();
+    let recipient: felt252 = 01001111;
 
     let mut calldata3 = ArrayTrait::new();
     calldata3.append(recipient);
     calldata3.append(200);
     invoke(contract, 'transfer', @calldata3).unwrap();
-    let caller: ContractAddress = get_caller_address();
+    let caller: felt252 = get_caller_address();
     let mut calldata2 = ArrayTrait::new();
     calldata2.append(caller);
     let caller_balance = call(contract, 'balance_of', @calldata2);
